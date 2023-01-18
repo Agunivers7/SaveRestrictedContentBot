@@ -14,6 +14,10 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 - `/batch` - (For owner only) Use this command to save upto 100 files from a pvt or public restricted channel at once.
 - Time delay is added to avoid FloodWait and keep user account safe. 
 
+
+Code 2:-
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Agunivers7/SaveRestrictedContentBot&branch=main&name=servicename) 
 # Variables
 
 - `API_ID`
