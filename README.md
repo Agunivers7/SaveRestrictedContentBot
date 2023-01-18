@@ -17,7 +17,7 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 
 Code 2:-
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Agunivers7/SaveRestrictedContentBot&branch=main&name=servicename) 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Agunivers7/SaveRestrictedContentBot&branch=master&name=servicename) 
 # Variables
 
 - `API_ID`
